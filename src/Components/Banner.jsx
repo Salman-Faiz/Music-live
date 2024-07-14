@@ -17,7 +17,7 @@ const Banner = () => {
             <div className="w-1 h-3 bg-pink-200 rounded-full animate-waveey"></div>
           </div>
         </div>
-        <h1 className="text-5xl font-bold ">
+        <h1 className="text-5xl font-bold text-zinc-200 ">
           Music : <span className="text-sky-900">Live</span>
         </h1>
       </div>
