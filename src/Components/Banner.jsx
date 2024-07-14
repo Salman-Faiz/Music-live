@@ -5,16 +5,16 @@ const Banner = () => {
         <img src="/images/logo.png" alt="" />
         <div className="flex items-center justify-center mt-[-140px] mb-12">
           <div className="bg-pink-500 w-28 h-28 rounded-full flex gap-1 justify-center items-center ">
-            <div className="w-1 h-3 bg-pink-400 rounded-full"></div>
-            <div className="w-1 h-8 bg-pink-300 rounded-full"></div>
-            <div className="w-1 h-12 bg-pink-200 rounded-full"></div>
-            <div className="w-1 h-7 bg-pink-100 rounded-full"></div>
-            <div className="w-1 h-5 bg-pink-300 rounded-full"></div>
-            <div className="w-1 h-7 bg-pink-200 rounded-full"></div>
-            <div className="w-1 h-5 bg-pink-300 rounded-full"></div>
-            <div className="w-1 h-7 bg-pink-200 rounded-full"></div>
-            <div className="w-1 h-4 bg-pink-300 rounded-full"></div>
-            <div className="w-1 h-3 bg-pink-400 rounded-full"></div>
+            <div className="w-1 h-3 bg-pink-300 rounded-full animate-wave "></div>
+            <div className="w-1 h-8 bg-pink-200 rounded-full animate-wavey"></div>
+            <div className="w-1 h-12 bg-pink-100 rounded-full animate-waveey"></div>
+            <div className="w-1 h-7 bg-pink-200 rounded-full animate-wavey "></div>
+            <div className="w-1 h-5 bg-pink-300 rounded-full animate-waveey"></div>
+            <div className="w-1 h-7 bg-pink-100 rounded-full animate-wave"></div>
+            <div className="w-1 h-5 bg-pink-300 rounded-full animate-waveey"></div>
+            <div className="w-1 h-7 bg-pink-200 rounded-full animate-wavey"></div>
+            <div className="w-1 h-4 bg-pink-100 rounded-full animate-wave"></div>
+            <div className="w-1 h-3 bg-pink-200 rounded-full animate-waveey"></div>
           </div>
         </div>
         <h1 className="text-5xl font-bold ">
